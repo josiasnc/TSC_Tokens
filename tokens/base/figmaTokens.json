@@ -31,6 +31,10 @@
         "700":{
             "value": "#4d4d4d",
             "type": "color"
+        },
+        "600":{
+            "value": "#999999",
+            "type": "color"
         }
     }  
     }
