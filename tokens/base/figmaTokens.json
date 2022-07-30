@@ -37,6 +37,12 @@
           "type": "color"
         }
       }
+    },
+    "spacing": {
+      "scale01": {
+        "value": "2",
+        "type": "spacing"
+      }
     }
   },
   "$themes": []
