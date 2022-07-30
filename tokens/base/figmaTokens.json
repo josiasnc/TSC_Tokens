@@ -1,26 +1,27 @@
 {
-    "color": {
-        "brand": {
-            "lightest": {
-                "value": "#F3EFFB",
-                "type": "color"
-              },
-            "light": {
-                "value": "#E1D9F2",
-                "type": "color"
-              },
-            "medium": {
-            "value": "#7953C6",
-            "type": "color"
-          },
-            "dark": {
-            "value": "#61439E",
-            "type": "color"
-          },
-            "darkest": {
-            "value": "#493277",
-            "type": "color"
-          }
-        }
+  "base": {
+    "brand": {
+      "lightest": {
+        "value": "#F3EFFB",
+        "type": "color"
+      },
+      "light": {
+        "value": "#E1D9F2",
+        "type": "color"
+      },
+      "medium": {
+        "value": "#7953C6",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#61439E",
+        "type": "color"
+      },
+      "darkest": {
+        "value": "#493277",
+        "type": "color"
+      }
     }
+  },
+  "$themes": []
 }
