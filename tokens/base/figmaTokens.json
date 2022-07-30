@@ -27,6 +27,10 @@
         "800":{
             "value": "#212121",
             "type": "color"
+        },
+        "700":{
+            "value": "#4d4d4d",
+            "type": "color"
         }
     }  
     }
