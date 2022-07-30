@@ -22,7 +22,13 @@
           "value": "#493277",
           "type": "color"
         }
-      }
+      },
+    "gray":{
+        "800":{
+            "value": "#212121",
+            "type": "color"
+        }
+    }  
     }
   },
   "$themes": []
