@@ -24,6 +24,10 @@
         }
       },
       "gray": {
+        "700": {
+          "value": "#4D4D4D",
+          "type": "color"
+        },
         "800": {
           "value": "#212121",
           "type": "color"
