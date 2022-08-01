@@ -23,20 +23,24 @@
           "type": "color"
         }
       },
-    "gray":{
-        "800":{
-            "value": "#212121",
-            "type": "color"
+      "gray": {
+        "500": {
+          "value": "#cccccc",
+          "type": "color"
         },
-        "700":{
-            "value": "#4d4d4d",
-            "type": "color"
+        "600": {
+          "value": "#999999",
+          "type": "color"
         },
-        "600":{
-            "value": "#999999",
-            "type": "color"
+        "700": {
+          "value": "#4d4d4d",
+          "type": "color"
+        },
+        "800": {
+          "value": "#212121",
+          "type": "color"
         }
-    }  
+      }
     }
   },
   "$themes": []
