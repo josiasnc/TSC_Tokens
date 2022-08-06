@@ -285,6 +285,84 @@
         "value": "72",
         "type": "fontSizes"
       }
+    },
+    "opacity": {
+      "1": {
+        "value": "0.04",
+        "type": "opacity"
+      },
+      "2": {
+        "value": "0.1",
+        "type": "opacity"
+      },
+      "3": {
+        "value": "0.2",
+        "type": "opacity"
+      },
+      "4": {
+        "value": "0.6",
+        "type": "opacity"
+      },
+      "5": {
+        "value": "0.8",
+        "type": "opacity"
+      }
+    },
+    "borderRadius": {
+      "none": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "xxs": {
+        "value": "2",
+        "type": "borderRadius"
+      },
+      "xs": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "sm": {
+        "value": "8",
+        "type": "borderRadius"
+      },
+      "md": {
+        "value": "12",
+        "type": "borderRadius"
+      },
+      "lg": {
+        "value": "16",
+        "type": "borderRadius"
+      },
+      "xl": {
+        "value": "24",
+        "type": "borderRadius"
+      },
+      "xxl": {
+        "value": "40",
+        "type": "borderRadius"
+      },
+      "circular": {
+        "value": "9999",
+        "type": "borderRadius"
+      }
+    },
+    "borderWeight": {
+      "none": {
+        "value": "0",
+        "type": "borderWidth"
+      },
+      "thin": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "thick": {
+        "value": "2",
+        "type": "borderWidth"
+      },
+      "heavy": {
+        "value": "4",
+        "type": "borderWidth"
+      }
     }
   },
   "$themes": []
