@@ -420,6 +420,56 @@
         },
         "type": "boxShadow"
       }
+    },
+    "spacing": {
+      "scale1": {
+        "value": "2",
+        "type": "spacing"
+      },
+      "scale2": {
+        "value": "4",
+        "type": "spacing"
+      },
+      "scale3": {
+        "value": "8",
+        "type": "spacing"
+      },
+      "scale4": {
+        "value": "12",
+        "type": "spacing"
+      },
+      "scale5": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "scale6": {
+        "value": "20",
+        "type": "spacing"
+      },
+      "scale7": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "scale8": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "scale9": {
+        "value": "40",
+        "type": "spacing"
+      },
+      "scale10": {
+        "value": "48",
+        "type": "spacing"
+      },
+      "scale11": {
+        "value": "64",
+        "type": "spacing"
+      },
+      "scale12": {
+        "value": "96",
+        "type": "spacing"
+      }
     }
   },
   "$themes": []
