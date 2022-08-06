@@ -189,6 +189,102 @@
           "type": "color"
         }
       }
+    },
+    "fontFamily": {
+      "brand": {
+        "value": "Poppins",
+        "type": "fontFamilies"
+      },
+      "system": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    },
+    "fontLineHeight": {
+      "tight": {
+        "value": "100%",
+        "type": "lineHeights"
+      },
+      "medium": {
+        "value": "120%",
+        "type": "lineHeights"
+      },
+      "distant": {
+        "value": "150%",
+        "type": "lineHeights"
+      },
+      "extraDistant": {
+        "value": "200%",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeight": {
+      "extraBold": {
+        "value": "ExtraBold",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "light": {
+        "value": "Light",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "xxxs": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "xxs": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "xs": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "sm": {
+        "value": "18",
+        "type": "fontSizes"
+      },
+      "md": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "lg": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "32",
+        "type": "fontSizes"
+      },
+      "xxl": {
+        "value": "40",
+        "type": "fontSizes"
+      },
+      "xxxl": {
+        "value": "48",
+        "type": "fontSizes"
+      },
+      "display": {
+        "value": "64",
+        "type": "fontSizes"
+      },
+      "giant": {
+        "value": "72",
+        "type": "fontSizes"
+      }
     }
   },
   "$themes": []
