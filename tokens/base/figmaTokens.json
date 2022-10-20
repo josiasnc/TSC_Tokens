@@ -188,6 +188,10 @@
           "value": "linear-gradient(90deg, {color.brand.primary.dark} 0%, {color.highlight.purple.medium} 100%)",
           "type": "color"
         }
+      },
+      "test": {
+        "value": "#4762e1",
+        "type": "color"
       }
     },
     "fontFamily": {
@@ -474,5 +478,10 @@
       }
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "base"
+    ]
+  }
 }
